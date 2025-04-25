@@ -73,18 +73,18 @@ export default function Home() {
       <section className="projects-section">
         <h2>projects</h2>
         <div className="project-cards">
-  <a href="https://github.com/sxmar05/restaurant-operations.git  " target="_blank" rel="noopener noreferrer" className="project-card">
+  <a href="https://github.com/sxmar05/calculator.git " target="_blank" rel="noopener noreferrer" className="project-card">
     <div className="project-image">
       <img src="/dsa-project.png" alt="DSA Project" />
     </div>
-    <h3>DSA Project</h3>
+    <h3>Stack Calculator</h3>
   </a>
   
-  <a href="https://your-oop-project-url.com" target="_blank" rel="noopener noreferrer" className="project-card">
+  <a href="https://github.com/sxmar05/restaurant-operations.git" target="_blank" rel="noopener noreferrer" className="project-card">
     <div className="project-image">
       <img src="/oop-project.png" alt="OOP Project" />
     </div>
-    <h3>OOP Project</h3>
+    <h3>Restaurant Operations</h3>
   </a>
   
   <a href="https://www.canva.com/design/DAGh7vDBezY/ismyBiIN1AYt_1-guLXojQ/edit?utm_content=DAGh7vDBezY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener noreferrer" className="project-card">
